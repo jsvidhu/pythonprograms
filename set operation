@@ -1,0 +1,7 @@
+print("---Set Operator---")
+E = {1,5,4,8,3,4,9,}
+N = {10,25,1,9,3,4}
+print("Union of E and N:", E | N)
+print("Intersection of E and N :", E & N)
+print("Difference of E and N :", E - N)
+print("Symmetric difference of E and N :", E ^ N)
